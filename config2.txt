@@ -1,2 +1,3 @@
 some configurations that were checked in after init
 neet to pull this file down
+adding some additional configurations
